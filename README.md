@@ -21,11 +21,11 @@ This is VPA paper reading list.
 
 ## Privacy Policy
 * [Demystifying Hidden Privacy Settings in Mobile Apps](https://docs.wixstatic.com/ugd/f9d5f6_b4d84b1cb3a9452982016efc969e0d01.pdf)
-*[Polisis Automated Analysis and Presentation of Privacy Policies Using Deep Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-harkous.pdf)
-*[PolicyLint- Investigating Internal Privacy Policy Contradictions on Google Play](https://www.usenix.org/system/files/sec19-andow.pdf)
-*[Quantifying the Effect of In-Domain Distributed Word Representations- A Study of Privacy Policies](https://usableprivacy.org/static/files/kumar_pal_2019.pdf)
-*[“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale](https://petsymposium.org/2018/files/papers/issue3/popets-2018-0021.pdf)
-*[Challenges in Automated Question Answering for Privacy Policies](http://ceur-ws.org/Vol-2335/1st_PAL_paper_13.pdf)
+* [Polisis Automated Analysis and Presentation of Privacy Policies Using Deep Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-harkous.pdf)
+* [PolicyLint- Investigating Internal Privacy Policy Contradictions on Google Play](https://www.usenix.org/system/files/sec19-andow.pdf)
+* [Quantifying the Effect of In-Domain Distributed Word Representations- A Study of Privacy Policies](https://usableprivacy.org/static/files/kumar_pal_2019.pdf)
+* [“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale](https://petsymposium.org/2018/files/papers/issue3/popets-2018-0021.pdf)
+* [Challenges in Automated Question Answering for Privacy Policies](http://ceur-ws.org/Vol-2335/1st_PAL_paper_13.pdf)
 
 
 
