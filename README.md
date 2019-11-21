@@ -11,18 +11,12 @@ This is VPA paper reading list.
 * [CoQA: A Conversational Question Answering Challenge](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00266)
 * [Helping Users Understand Privacy Notices with Automated Query Answering Functionality- An Exploratory Study](https://usableprivacy.org/static/files/CMU-ISR-17-114R.pdf)
 * [Artificial Intelligence Chatbots Are Changing the Way You Do Business and May Impact Your Bottom Line](https://wordwowstudio.com/wp-content/uploads/2019/02/artificial-intelligence-chatbots-are-changing-the-way-you-do-business-and-may-impact-your-bottom-line.pdf)
-
-*[Using chatbots against voice spam: Analyzing Lenny’s effectiveness](https://www.usenix.org/system/files/conference/soups2017/soups2017-sahin.pdf)
-
-*[PriBots Conversational Privacy with Chatbots](https://www.usenix.org/system/files/conference/soups2016/wfpn16-paper-harkous.pdf)
-
-*[Protecting Chatbots from Toxic Content](http://hirzels.com/martin/papers/onward18-botshield.pdf)
-
-*[Chatbot Testing Using AI Planning](http://hirzels.com/martin/papers/onward18-botshield.pdf)
-
-*[Reactive Chatbot Programming](http://hirzels.com/martin/papers/rebls18-reactive-chatbots.pdf)
-
-*[Security Testing For Chatbots](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99927-2_3.pdf)
+* [Using chatbots against voice spam: Analyzing Lenny’s effectiveness](https://www.usenix.org/system/files/conference/soups2017/soups2017-sahin.pdf)
+* [PriBots Conversational Privacy with Chatbots](https://www.usenix.org/system/files/conference/soups2016/wfpn16-paper-harkous.pdf)
+* [Protecting Chatbots from Toxic Content](http://hirzels.com/martin/papers/onward18-botshield.pdf)
+* [Chatbot Testing Using AI Planning](http://hirzels.com/martin/papers/onward18-botshield.pdf)
+* [Reactive Chatbot Programming](http://hirzels.com/martin/papers/rebls18-reactive-chatbots.pdf)
+* [Security Testing For Chatbots](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99927-2_3.pdf)
 
 
 ## Privacy Policy
