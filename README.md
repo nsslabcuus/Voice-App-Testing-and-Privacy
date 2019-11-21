@@ -10,6 +10,8 @@ This is VPA paper reading list.
 * [A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC](https://arxiv.org/pdf/1809.10735.pdf)
 * [CoQA: A Conversational Question Answering Challenge](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00266)
 
+## Privacy
+* [Demystifying Hidden Privacy Settings in Mobile Apps](https://docs.wixstatic.com/ugd/f9d5f6_b4d84b1cb3a9452982016efc969e0d01.pdf)
 
 ## Generating Adversarial Exmaples
 
