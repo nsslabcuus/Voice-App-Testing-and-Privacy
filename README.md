@@ -26,8 +26,8 @@ This is VPA paper reading list.
 * [Quantifying the Effect of In-Domain Distributed Word Representations- A Study of Privacy Policies](https://usableprivacy.org/static/files/kumar_pal_2019.pdf)
 * [“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale](https://petsymposium.org/2018/files/papers/issue3/popets-2018-0021.pdf)
 * [Challenges in Automated Question Answering for Privacy Policies](http://ceur-ws.org/Vol-2335/1st_PAL_paper_13.pdf)
-# Question answering for privacy policies and privacy compliance analysis
-* [Question Answering for Privacy Policies: Combining Computational and Legal] Perspectives(https://usableprivacy.org/static/files/ravichander_pal_2019.pdf)
+### Question answering for privacy policies and privacy compliance analysis
+* [Question Answering for Privacy Policies: Combining Computational and Legal Perspectives](https://usableprivacy.org/static/files/ravichander_pal_2019.pdf)
 * [Challenges in Automated Question Answering for Privacy Policies](https://usableprivacy.org/static/files/ravichander_pal_2019.pdf)
 * [Quantifying the Effect of In-Domain Distributed Word Representations: A Study of Privacy Policies](http://ceur-ws.org/Vol-2335/1st_PAL_paper_11.pdf)
 * [Natural Language Processing for Mobile App Privacy Compliance](http://ceur-ws.org/Vol-2335/1st_PAL_paper_6.pdf)
