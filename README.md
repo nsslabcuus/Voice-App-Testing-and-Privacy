@@ -17,7 +17,7 @@ This is VPA paper reading list.
 * [Chatbot Testing Using AI Planning](http://hirzels.com/martin/papers/onward18-botshield.pdf)
 * [Reactive Chatbot Programming](http://hirzels.com/martin/papers/rebls18-reactive-chatbots.pdf)
 * [Security Testing For Chatbots](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99927-2_3.pdf)
-
+* [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)
 
 ## Privacy Policy
 * [Demystifying Hidden Privacy Settings in Mobile Apps](https://docs.wixstatic.com/ugd/f9d5f6_b4d84b1cb3a9452982016efc969e0d01.pdf)
