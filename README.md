@@ -31,7 +31,7 @@ This is VPA paper reading list.
 ### Chatbot Blog
 * [It's possible to reverse-engineer AI chatbots to spout nonsense, smut or sensitive information](https://www.theregister.co.uk/2019/09/20/reverse_engineer_an_ai_chatbot/)
 
-##########################################################################################
+#################################################
 
 ## Privacy Policy
 * [Demystifying Hidden Privacy Settings in Mobile Apps](https://docs.wixstatic.com/ugd/f9d5f6_b4d84b1cb3a9452982016efc969e0d01.pdf)
