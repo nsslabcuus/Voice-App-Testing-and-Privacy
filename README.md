@@ -28,8 +28,10 @@ This is VPA paper reading list.
 * [MAPS: Scaling Privacy Compliance Analysis to a Million Apps](https://usableprivacy.org/static/files/popets-2019-maps.pdf)
 * [Automated Analysis of Privacy Requirements for Mobile Apps](https://shomir.net/pdf/publications/uppp_ndss_2017.pdf)
 
+
 ### Chatbot Blog
 * [It's possible to reverse-engineer AI chatbots to spout nonsense, smut or sensitive information](https://www.theregister.co.uk/2019/09/20/reverse_engineer_an_ai_chatbot/)
+* [usableprivacy.org](https://usableprivacy.org/publications)
 
 #################################################
 
