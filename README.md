@@ -20,10 +20,18 @@ This is VPA paper reading list.
 * [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)
 * [Say What I Want: Towards the Dark Side of Neural Dialogue Models](https://arxiv.org/pdf/1909.06044.pdf)
 
+### Question answering for privacy policies and privacy compliance analysis
+* [Question Answering for Privacy Policies: Combining Computational and Legal Perspectives](https://usableprivacy.org/static/files/ravichander_pal_2019.pdf)
+* [Challenges in Automated Question Answering for Privacy Policies](https://usableprivacy.org/static/files/ravichander_pal_2019.pdf)
+* [Quantifying the Effect of In-Domain Distributed Word Representations: A Study of Privacy Policies](http://ceur-ws.org/Vol-2335/1st_PAL_paper_11.pdf)
+* [Natural Language Processing for Mobile App Privacy Compliance](http://ceur-ws.org/Vol-2335/1st_PAL_paper_6.pdf)
+* [MAPS: Scaling Privacy Compliance Analysis to a Million Apps](https://usableprivacy.org/static/files/popets-2019-maps.pdf)
+* [Automated Analysis of Privacy Requirements for Mobile Apps](https://shomir.net/pdf/publications/uppp_ndss_2017.pdf)
 
 ### Chatbot Blog
 * [It's possible to reverse-engineer AI chatbots to spout nonsense, smut or sensitive information](https://www.theregister.co.uk/2019/09/20/reverse_engineer_an_ai_chatbot/)
 
+##########################################################################################
 
 ## Privacy Policy
 * [Demystifying Hidden Privacy Settings in Mobile Apps](https://docs.wixstatic.com/ugd/f9d5f6_b4d84b1cb3a9452982016efc969e0d01.pdf)
@@ -32,13 +40,7 @@ This is VPA paper reading list.
 * [Quantifying the Effect of In-Domain Distributed Word Representations- A Study of Privacy Policies](https://usableprivacy.org/static/files/kumar_pal_2019.pdf)
 * [“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale](https://petsymposium.org/2018/files/papers/issue3/popets-2018-0021.pdf)
 * [Challenges in Automated Question Answering for Privacy Policies](http://ceur-ws.org/Vol-2335/1st_PAL_paper_13.pdf)
-### Question answering for privacy policies and privacy compliance analysis
-* [Question Answering for Privacy Policies: Combining Computational and Legal Perspectives](https://usableprivacy.org/static/files/ravichander_pal_2019.pdf)
-* [Challenges in Automated Question Answering for Privacy Policies](https://usableprivacy.org/static/files/ravichander_pal_2019.pdf)
-* [Quantifying the Effect of In-Domain Distributed Word Representations: A Study of Privacy Policies](http://ceur-ws.org/Vol-2335/1st_PAL_paper_11.pdf)
-* [Natural Language Processing for Mobile App Privacy Compliance](http://ceur-ws.org/Vol-2335/1st_PAL_paper_6.pdf)
-* [MAPS: Scaling Privacy Compliance Analysis to a Million Apps](https://usableprivacy.org/static/files/popets-2019-maps.pdf)
-* [Automated Analysis of Privacy Requirements for Mobile Apps](https://shomir.net/pdf/publications/uppp_ndss_2017.pdf)
+
 
 ## Generating Adversarial Exmaples
 
