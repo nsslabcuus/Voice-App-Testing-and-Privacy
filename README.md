@@ -18,6 +18,12 @@ This is VPA paper reading list.
 * [Reactive Chatbot Programming](http://hirzels.com/martin/papers/rebls18-reactive-chatbots.pdf)
 * [Security Testing For Chatbots](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99927-2_3.pdf)
 * [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)
+* [Say What I Want: Towards the Dark Side of Neural Dialogue Models](https://arxiv.org/pdf/1909.06044.pdf)
+
+
+# Chatbot Blog
+* [It's possible to reverse-engineer AI chatbots to spout nonsense, smut or sensitive information](https://www.theregister.co.uk/2019/09/20/reverse_engineer_an_ai_chatbot/)
+
 
 ## Privacy Policy
 * [Demystifying Hidden Privacy Settings in Mobile Apps](https://docs.wixstatic.com/ugd/f9d5f6_b4d84b1cb3a9452982016efc969e0d01.pdf)
