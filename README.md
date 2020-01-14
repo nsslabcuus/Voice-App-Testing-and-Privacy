@@ -21,7 +21,7 @@ This is VPA paper reading list.
 * [Say What I Want: Towards the Dark Side of Neural Dialogue Models](https://arxiv.org/pdf/1909.06044.pdf)
 
 
-# Chatbot Blog
+### Chatbot Blog
 * [It's possible to reverse-engineer AI chatbots to spout nonsense, smut or sensitive information](https://www.theregister.co.uk/2019/09/20/reverse_engineer_an_ai_chatbot/)
 
 
