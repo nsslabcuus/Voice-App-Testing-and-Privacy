@@ -43,6 +43,11 @@ This is VPA paper reading list.
 * [“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale](https://petsymposium.org/2018/files/papers/issue3/popets-2018-0021.pdf)
 * [Challenges in Automated Question Answering for Privacy Policies](http://ceur-ws.org/Vol-2335/1st_PAL_paper_13.pdf)
 
+## User Review Analysis
+* [Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy](https://nguyenduccuong.de/papers/userreviews_impact_sp2019.pdf)
+* [Online App Review Analysis for Identifying Emerging Issues](https://ieeexplore.ieee.org/document/8453061)
+* [Why People Hate Your App — Making Sense of User Feedback in a Mobile App Store](https://dl.acm.org/doi/pdf/10.1145/2487575.2488202?download=true)
+
 
 ## Generating Adversarial Exmaples
 
