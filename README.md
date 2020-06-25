@@ -19,6 +19,7 @@ This is VPA paper reading list.
 * [Security Testing For Chatbots](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99927-2_3.pdf)
 * [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)
 * [Say What I Want: Towards the Dark Side of Neural Dialogue Models](https://arxiv.org/pdf/1909.06044.pdf)
+* [Into the Deep Web: Understanding E-commerceFraud from Autonomous Chat with Cybercriminals](https://iu.app.box.com/s/daxk2anwa4p4zfkfl4fqwo74cfi4tkcp)
 
 ### Question answering for privacy policies and privacy compliance analysis
 * [Question Answering for Privacy Policies: Combining Computational and Legal Perspectives](https://usableprivacy.org/static/files/ravichander_pal_2019.pdf)
